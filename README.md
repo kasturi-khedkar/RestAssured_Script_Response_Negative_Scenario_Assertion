@@ -1,0 +1,1 @@
+# RestAssured_Script_Response_Negative_Scenario_Assertion
